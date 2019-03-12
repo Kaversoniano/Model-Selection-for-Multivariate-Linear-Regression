@@ -3,8 +3,8 @@
 
 ### Dataset
 * Name: County Demographic Information (CDI)
-* Sample Size: 440
-* Number of Variables: 17
+* Sample Size: `440`
+* Number of Variables: `17`
 
 ### Model Selection Methods
 * Best Subset Selection
@@ -15,5 +15,5 @@
 * Bivariate P-value Threshold Method
 
 ### Other
-* Selection Criteria: AIC
-* Quantitative Evaluation: RMSE
+* Selection Criteria: `AIC`
+* Quantitative Evaluation: `RMSE`
